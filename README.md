@@ -2,7 +2,7 @@
 <h1 align="left">Hi there!</h1>
 <h3 align="left">I am Nika, a creative, detail-oriented Software Engineer from Philadelphia, USA</h3>
 
-- I’m currently working on **short-term rental project for a real estate investor.**
+- I’m currently preparing for Bravo 1 Hackathon hosted by Space Force and Air Force.
 
 - All of my projects are available at [nikahughes.com](nikahughes.com)
 
